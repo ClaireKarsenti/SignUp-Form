@@ -13,6 +13,12 @@ export const Container = styled.article`
 `;
 
 export const Section = styled.section`
+  @media (hover: hover) {
+    transition: 0.8s ease;
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
   @media screen and (min-width: 760px) {
     flex: 1 0 50%;
   }
@@ -45,6 +51,7 @@ export const Form = styled.form`
     height: 100%;
     padding: 2em 2em 2em;
   }
+
   .terms p {
     color: var(--grayish-blue);
     font-size: 0.68rem;
