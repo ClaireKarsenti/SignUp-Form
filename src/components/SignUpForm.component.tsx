@@ -46,11 +46,14 @@ const SignUpForm = () => {
             );
           })}
           ;
-          <button type="submit" className="btn-control">
-            Claim your free trial
+          <button className="flip" type="submit">
+            <div className="inner">
+              <div className="front">Claim your free trial</div>
+              <div className="back">Let's Go!</div>
+            </div>
           </button>
         </fieldset>
-        
+
         <div className="terms">
           <p>
             By clicking the button, you are agreeing to our{' '}
