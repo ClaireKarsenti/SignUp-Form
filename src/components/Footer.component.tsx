@@ -11,7 +11,7 @@ const Footer = () => {
         .
       </p>
       <p className="attribution">
-        Coded by&nbsp;
+        Coded with 🤍 by&nbsp;
         <a href="https://www.linkedin.com/in/claire-karsenti/">
           Claire Karsenti
         </a>
