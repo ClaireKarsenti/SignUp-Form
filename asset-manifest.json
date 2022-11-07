@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Frontend-Mentor-Solution-SignUp-Form/static/css/main.414bb344.css",
-    "main.js": "/Frontend-Mentor-Solution-SignUp-Form/static/js/main.c4d78f98.js",
+    "main.js": "/Frontend-Mentor-Solution-SignUp-Form/static/js/main.eeb1df9d.js",
     "static/js/787.d38b7b1a.chunk.js": "/Frontend-Mentor-Solution-SignUp-Form/static/js/787.d38b7b1a.chunk.js",
     "static/media/bg-intro-desktop.png": "/Frontend-Mentor-Solution-SignUp-Form/static/media/bg-intro-desktop.059183eea52640c5068d.png",
     "static/media/bg-intro-mobile.png": "/Frontend-Mentor-Solution-SignUp-Form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
     "index.html": "/Frontend-Mentor-Solution-SignUp-Form/index.html",
     "static/media/icon-error.svg": "/Frontend-Mentor-Solution-SignUp-Form/static/media/icon-error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
     "main.414bb344.css.map": "/Frontend-Mentor-Solution-SignUp-Form/static/css/main.414bb344.css.map",
-    "main.c4d78f98.js.map": "/Frontend-Mentor-Solution-SignUp-Form/static/js/main.c4d78f98.js.map",
+    "main.eeb1df9d.js.map": "/Frontend-Mentor-Solution-SignUp-Form/static/js/main.eeb1df9d.js.map",
     "787.d38b7b1a.chunk.js.map": "/Frontend-Mentor-Solution-SignUp-Form/static/js/787.d38b7b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.414bb344.css",
-    "static/js/main.c4d78f98.js"
+    "static/js/main.eeb1df9d.js"
   ]
 }
