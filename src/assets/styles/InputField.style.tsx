@@ -30,8 +30,7 @@ export const Input = styled.input`
   border: 1px #dedede solid;
   margin-bottom: 1rem;
   @media screen and (min-width: 760px) {
-     padding: 1.5em 0em 1.5em 2em;
-
+    padding: 1.5em 0em 1.5em 2em;
   }
   ::placeholder {
     font-size: 0.875rem;

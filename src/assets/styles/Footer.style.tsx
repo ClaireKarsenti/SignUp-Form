@@ -9,7 +9,7 @@ export const Container = styled.footer`
   line-height: 1.5em;
   @media screen and (min-width: 760px) {
     position: absolute;
-    bottom: 0;
+    bottom: -3em;
     left: 0;
     right: 0;
   }

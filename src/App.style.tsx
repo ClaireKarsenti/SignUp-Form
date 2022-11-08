@@ -4,7 +4,7 @@ export const Container = styled.div`
   width: 100vw;
   height: 100vh;
   display: flex;
-  padding: 0 2em;
+  padding: 0 0;
   animation: animate-slide 4s;
   @keyframes animate-slide {
     0% {

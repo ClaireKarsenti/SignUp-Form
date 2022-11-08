@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Section = styled.section`
-  max-width: 31.25rem;
+  max-width: 21rem;
   flex-grow: 1;
   margin: 0 auto;
 
@@ -14,7 +14,7 @@ export const Section = styled.section`
 
 export const TextWrapper = styled.div`
   text-align: center;
-  padding-top: 4.3em;
+  padding-top: 5em;
   margin-bottom: 3.2rem;
 
   @media screen and (min-width: 760px) {
@@ -38,6 +38,6 @@ export const TextWrapper = styled.div`
   p {
     line-height: 1.5em;
     font-weight: var(--medium);
-    font-size: 1.1rem;
+    font-size: 1.05rem;
   }
 `;

@@ -13,6 +13,7 @@ export const Container = styled.article`
 `;
 
 export const Section = styled.section`
+margin-top: 4em;
   @media (hover: hover) {
     transition: 0.8s ease;
     &:hover {
@@ -73,15 +74,14 @@ export const Form = styled.form`
       background-color: transparent;
       background: var(--green);
       box-shadow: inset 0 -4px rgba(0, 0, 0, 0.1);
-      text-transform: uppercase;
       border: none;
       border-radius: 0.3em;
       position: relative;
       top: -1.5em;
       perspective: 31em;
-      height: 4em;
+      height: 3.5em;
       width: 100%;
-      padding: 1.1em;
+      padding: 1em;
       &:focus {
         outline: none;
       }
@@ -112,9 +112,10 @@ export const Form = styled.form`
       height: 100%;
       letter-spacing: 0.27px;
       line-height: 26px;
-      font-size: 0.9375rem;
+      font-size: 1rem;
       font-weight: var(--semiBold);
       color: var(--white);
+      text-transform: uppercase;
     }
     .inner .front {
       background: transparent;

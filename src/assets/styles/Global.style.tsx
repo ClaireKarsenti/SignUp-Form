@@ -11,7 +11,7 @@ export const GlobalStyle = createGlobalStyle`
         --dark-blue: hsl(249, 10%, 26%) ;
         --grayish-blue: hsl(246, 25%, 77%);
         --white: #ffff;
-        --box-shadow: 0px 7px hsla(249, 10%, 26%, 0.351) ;
+        --box-shadow: 0px 7px hsla(249, 10%, 26%, 0.2) ;
 
         --regular: 400;
         --medium: 500;
@@ -100,19 +100,7 @@ export const GlobalStyle = createGlobalStyle`
       scroll-behavior: auto !important;
     }
   }
-    .sr-only {
-    border: 0 !important;
-    clip: rect(1px, 1px, 1px, 1px) !important;
-    -webkit-clip-path: inset(50%) !important;
-    clip-path: inset(50%) !important;
-    height: 1px !important;
-    margin: -1px !important;
-    overflow: hidden !important;
-    padding: 0 !important;
-    position: absolute !important;
-    width: 1px !important;
-    white-space: nowrap !important;
-  }
+  
   body {
     font-family: Poppins, sans-serif;
     background: url(${BgMobile}) var(--red);
