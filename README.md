@@ -53,6 +53,10 @@ Users should be able to:
 | -------------------------- | ------------------------------------------------------------------------------- |
 | My work with customization | ![Active states version](./src/assets/my-work/my-work-active-state-version.png) |
 
+#### Demo video
+
+https://user-images.githubusercontent.com/102292921/201194722-644076ae-6f74-43a7-9fa4-3524fd468865.mov
+
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/ClaireKarsenti/Frontend-Mentor-Solution-SignUp-Form)
@@ -106,7 +110,6 @@ Here are some example of my code and some of my customization I added to this pr
   ```
 
   ```css
-  /* [...] */
   .flip .inner {
     position: relative;
     width: 100%;
