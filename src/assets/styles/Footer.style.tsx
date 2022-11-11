@@ -13,7 +13,6 @@ export const Container = styled.footer`
     left: 0;
     right: 0;
   }
-
   .attribution,
   a {
     color: var(--white);
@@ -29,14 +28,14 @@ export const Container = styled.footer`
         text-decoration: none;
       }
     }
-  }
-  a:link {
-    text-decoration: none;
-  }
-  a:visited {
-    text-decoration: none;
-  }
-  a:active {
-    text-decoration: none;
+    &:link {
+      text-decoration: none;
+    }
+    &:visited {
+      text-decoration: none;
+    }
+    &:active {
+      text-decoration: none;
+    }
   }
 `;
