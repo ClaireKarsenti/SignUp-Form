@@ -13,6 +13,7 @@ Frontend Mentor challenges help me improve my coding skills by building realisti
       - [Desktop version](#desktop-version)
       - [Mobile version](#mobile-version)
       - [Active states version](#active-states-version)
+      - [Demo video](#demo-video)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -80,7 +81,7 @@ This challenge also allowed me to deepen my knowledge of CSS Animations and Styl
 
 Here are some example of my code and some of my customization I added to this project:
 
-- :nail_polish: Passed props with Styled Components for the inputs fields:
+- :nail_care: Passed props with Styled Components for the inputs fields:
 
   ```css
   export const Input = styled.input`
@@ -98,7 +99,7 @@ Here are some example of my code and some of my customization I added to this pr
   `;
   ```
 
-- :counterclockwise_arrows_button: I customized the submit button with a flip button effect:
+- :arrows_counterclockwise: I customized the submit button with a flip button effect:
 
   ```html
   <button className="flip" type="submit">
