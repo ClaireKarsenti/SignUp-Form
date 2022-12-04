@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Frontend-Mentor-Solution-SignUp-Form/static/css/main.414bb344.css",
-    "main.js": "/Frontend-Mentor-Solution-SignUp-Form/static/js/main.6198488d.js",
-    "static/js/787.d38b7b1a.chunk.js": "/Frontend-Mentor-Solution-SignUp-Form/static/js/787.d38b7b1a.chunk.js",
-    "static/media/bg-intro-desktop.png": "/Frontend-Mentor-Solution-SignUp-Form/static/media/bg-intro-desktop.059183eea52640c5068d.png",
-    "static/media/bg-intro-mobile.png": "/Frontend-Mentor-Solution-SignUp-Form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
-    "index.html": "/Frontend-Mentor-Solution-SignUp-Form/index.html",
-    "static/media/icon-error.svg": "/Frontend-Mentor-Solution-SignUp-Form/static/media/icon-error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
-    "main.414bb344.css.map": "/Frontend-Mentor-Solution-SignUp-Form/static/css/main.414bb344.css.map",
-    "main.6198488d.js.map": "/Frontend-Mentor-Solution-SignUp-Form/static/js/main.6198488d.js.map",
-    "787.d38b7b1a.chunk.js.map": "/Frontend-Mentor-Solution-SignUp-Form/static/js/787.d38b7b1a.chunk.js.map"
+    "main.css": "/SignUp-Form/static/css/main.414bb344.css",
+    "main.js": "/SignUp-Form/static/js/main.aceffc4c.js",
+    "static/js/787.d38b7b1a.chunk.js": "/SignUp-Form/static/js/787.d38b7b1a.chunk.js",
+    "static/media/bg-intro-desktop.png": "/SignUp-Form/static/media/bg-intro-desktop.059183eea52640c5068d.png",
+    "static/media/bg-intro-mobile.png": "/SignUp-Form/static/media/bg-intro-mobile.02ce398270ece1769ebc.png",
+    "index.html": "/SignUp-Form/index.html",
+    "static/media/icon-error.svg": "/SignUp-Form/static/media/icon-error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
+    "main.414bb344.css.map": "/SignUp-Form/static/css/main.414bb344.css.map",
+    "main.aceffc4c.js.map": "/SignUp-Form/static/js/main.aceffc4c.js.map",
+    "787.d38b7b1a.chunk.js.map": "/SignUp-Form/static/js/787.d38b7b1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.414bb344.css",
-    "static/js/main.6198488d.js"
+    "static/js/main.aceffc4c.js"
   ]
 }
