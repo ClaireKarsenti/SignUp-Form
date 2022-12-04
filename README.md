@@ -9,7 +9,7 @@ Frontend Mentor challenges help me improve my coding skills by building realisti
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Models & my works](#models--my-works)
+    - [Models \& my works](#models--my-works)
       - [Desktop version](#desktop-version)
       - [Mobile version](#mobile-version)
       - [Active states version](#active-states-version)
@@ -60,8 +60,8 @@ https://user-images.githubusercontent.com/102292921/201194722-644076ae-6f74-43a7
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/ClaireKarsenti/Frontend-Mentor-Solution-SignUp-Form)
-- Live Site URL: [GitHub Pages Live URL](https://clairekarsenti.github.io/Frontend-Mentor-Solution-SignUp-Form/)
+- Solution URL: [Code on GitHub](https://github.com/ClaireKarsenti/SignUp-Form)
+- Live Site URL: [GitHub Pages Live URL](https://clairekarsenti.github.io/SignUp-Form/)
 
 ## My process
 
@@ -159,4 +159,4 @@ yarn install && yarn start
 ## Author
 
 - Linkedin - [Claire Karsenti](https://www.linkedin.com/in/claire-karsenti/)
-- Frontend Mentor - [@ClaireKarsent](https://www.frontendmentor.io/profile/ClaireKarsenti)
+- Frontend Mentor - [@ClaireKarsenti](https://www.frontendmentor.io/profile/ClaireKarsenti)
