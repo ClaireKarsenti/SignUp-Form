@@ -13,15 +13,15 @@ const SignUpForm = () => {
   });
   const [focused, setFocused] = useState<boolean>(false);
 
-  const updateState = (e: any) => {
+  const updateState = (e: React.ChangeEvent<HTMLInputElement>) => {
     setInputFields({ ...inputFields, [e.target.name]: e.target.value });
   };
 
-  const submit = (e: any) => {
+  const submit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
   };
 
-  const focusHandler = () => {
+  const focusHandler : () => void = () => {
     setFocused(true);
   };
 
